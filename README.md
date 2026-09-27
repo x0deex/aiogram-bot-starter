@@ -1,4 +1,5 @@
-﻿# Telegram Bot Started
+НУЖЕН ДЛЯ СТАРТА
+# Telegram Bot Started
 Методы для сообщений:
 
     message.from_user.id - узнать уникальный ID пользователя
